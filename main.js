@@ -1,4 +1,5 @@
 const signUpButton = document.querySelector('#signUp');
+
 const signInButton = document.querySelector('#signIn');
 const container = document.querySelector('#container');
 
